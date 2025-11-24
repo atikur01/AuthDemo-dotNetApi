@@ -1,6 +1,3 @@
 <Solution>
-  <Project Path="src/AuthDemo.Api/AuthDemo.Api.csproj" />
-  <Project Path="src/AuthDemo.Application/AuthDemo.Application.csproj" />
-  <Project Path="src/AuthDemo.Domain/AuthDemo.Domain.csproj" />
-  <Project Path="src/AuthDemo.Infrastructure/AuthDemo.Infrastructure.csproj" Id="9a464d9d-a6cb-446f-8ae5-753402d53dbd" />
+  <Project Path="AuthDemo.csproj" />
 </Solution>
